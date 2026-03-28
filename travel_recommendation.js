@@ -1,4 +1,4 @@
-// ==================== WanderLux – Travel Recommendation Application ====================
+// ==================== TraveLux – Travel Recommendation Application ====================
 // This file handles page navigation, search functionality, and contact form submission
 
 // ==================== GLOBAL VARIABLES ====================
